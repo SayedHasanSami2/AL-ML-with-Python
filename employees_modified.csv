@@ -1,0 +1,11 @@
+,id,age,salary,dept,Country,Salary
+0,1,56,77191,HR,USA,Good
+1,2,46,74131,IT,Canada,Good
+2,3,32,46023,Finance,USA,Bad
+3,4,25,71090,IT,UK,Good
+4,5,38,31685,HR,Canada,Bad
+5,6,56,30769,Sales,USA,Bad
+6,7,36,89735,Finance,UK,Good
+7,8,40,86101,IT,Canada,Good
+8,9,28,32433,Sales,USA,Bad
+9,10,28,35311,HR,UK,Bad
